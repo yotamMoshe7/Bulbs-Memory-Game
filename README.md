@@ -21,7 +21,7 @@ The board consists of 6 “light bulbs”, each one has a unique color.
   * The total score will be raised by 10.
   * Return to step 2 and repeat the same sequence of lighting
   bulbs, adding one additional bulb to it.
-  Otherwise:
+   Otherwise:
   * The game is over and the user can restart the game.
 4. Score history will display in the left sidebar as well as game details such as the name of
 the player and date.
