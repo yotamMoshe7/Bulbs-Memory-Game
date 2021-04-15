@@ -6,7 +6,7 @@ https://bulbs-memory-game.herokuapp.com
 ## Welcome Page
 1. Welcome Page - Users can enter his name and open the game interface.
 2. After entering his name, the user can start the game by clicking the “Start” button.
-3. 
+
 ![‏‏לכידה3](https://user-images.githubusercontent.com/57434735/114935103-6e922100-9e43-11eb-91e2-300471d6936c.PNG)
 
 ## Game Page
