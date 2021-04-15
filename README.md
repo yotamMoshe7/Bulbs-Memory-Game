@@ -27,6 +27,7 @@ Game process:
 the player and date.
 5. The order of the scores will be from the highest to the lowest score
 
+![‏‏לכידה4](https://user-images.githubusercontent.com/57434735/114935186-8b2e5900-9e43-11eb-9f6a-4e437b2c9433.PNG)
 
 
 
