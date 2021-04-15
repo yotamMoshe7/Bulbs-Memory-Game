@@ -7,7 +7,7 @@ The game goes in the following order:
 2. After entering his name, the user can start the game by clicking the “Start” button.
 
 ## Welcome Page
-
+![‏‏לכידה3](https://user-images.githubusercontent.com/57434735/114935103-6e922100-9e43-11eb-91e2-300471d6936c.PNG)
 
 ## Game Page
 1. Showing the player name.
