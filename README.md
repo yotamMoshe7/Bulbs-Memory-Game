@@ -1,14 +1,17 @@
 # Bulbs-Memory-Game
 
-1. Welcome Page - Users can enter his name and open the game interface.
-2. After entering his name, the user can start the game by clicking the “Start” button.
+# Link to the game
+https://bulbs-memory-game.herokuapp.com
 
 ## Welcome Page
+1. Welcome Page - Users can enter his name and open the game interface.
+2. After entering his name, the user can start the game by clicking the “Start” button.
+3. 
 ![‏‏לכידה3](https://user-images.githubusercontent.com/57434735/114935103-6e922100-9e43-11eb-91e2-300471d6936c.PNG)
 
+## Game Page
 The board consists of 6 “light bulbs”, each one has a unique color.
 
-## Game Page
 ![‏‏לכידה4](https://user-images.githubusercontent.com/57434735/114935186-8b2e5900-9e43-11eb-9f6a-4e437b2c9433.PNG)
 
 ## Game Rules
