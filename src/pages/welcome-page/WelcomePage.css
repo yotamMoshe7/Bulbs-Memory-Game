@@ -1,0 +1,46 @@
+#welcome-container {
+  background-color: #286da8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#welcome-page-title {
+  color: white;
+  font-size: 8vw;
+  font-family: 'Creepster', cursive;
+}
+
+#welcome-page-sub-title {
+  color: white;
+  font-size: 6vw;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+#input {
+  margin-top: 3vh;
+  height: 5vw;
+  width: 30vw;
+  font-size: 5vw;
+}
+
+#welcome-start-game-button {
+  background-color: #cd5360;
+  margin-top: 2vw;
+  font-size: 3.5vw;
+  font-family: 'Love Ya Like A Sister', cursive;
+  color: white;
+  width: 20vw;
+}
+
+@media only screen and (max-width: 600px) {
+  #welcome-start-game-button {
+    background-color: #cd5360;
+    margin-top: 3vw;
+    font-size: 4.5vw;
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: white;
+    width: 25vw;
+  }
+}

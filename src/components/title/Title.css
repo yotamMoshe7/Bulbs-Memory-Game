@@ -1,0 +1,93 @@
+#title-wrapper {
+  width: 100%;
+  height: 35%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+#level {
+  font-size: 5vw;
+  font-family: 'Creepster', cursive;
+}
+
+#instructions1 {
+  font-size: 2vw;
+  width: 60vw;
+  text-align: center;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+#instructions2 {
+  font-size: 2vw;
+  width: 60vw;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+#game-over {
+  font-size: 5vw;
+  font-weight: bold;
+  color: 'white';
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+#start-game-button {
+  width: 17vw;
+  margin-top: 1vw;
+  font-size: 3vw;
+  color: white;
+  font-weight: bold;
+  background-color: #cd5360;
+  font-family: 'Love Ya Like A Sister', cursive;
+}
+
+@media only screen and (max-width: 600px) {
+  #title-wrapper {
+    width: 100%;
+    height: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+  }
+
+  #level {
+    font-size: 18vw;
+    font-family: 'Creepster', cursive;
+  }
+
+  #instructions1 {
+    font-size: 4vw;
+    width: 60vw;
+    text-align: center;
+    font-family: 'Love Ya Like A Sister', cursive;
+  }
+
+  #instructions2 {
+    font-size: 5vw;
+    width: 60vw;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Love Ya Like A Sister', cursive;
+  }
+
+  #game-over {
+    font-size: 11vw;
+    font-weight: bold;
+    color: 'white';
+    font-family: 'Love Ya Like A Sister', cursive;
+  }
+
+  #start-game-button {
+    width: 24vw;
+    margin-top: 4vw;
+    font-size: 5vw;
+    color: white;
+    font-weight: bold;
+    background-color: #cd5360;
+    font-family: 'Love Ya Like A Sister', cursive;
+  }
+}

@@ -1,0 +1,62 @@
+#scores-list-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Potta One', cursive;
+  width: 100%;
+  font-size: 2.5vw;
+  background-color: #b37d46;
+}
+
+#best-score-title {
+  font-size: 3vw;
+  margin-top: 0.5vw;
+  margin-bottom: 0.5vw;
+}
+
+#score-element {
+  font-size: 3vw;
+  color: white;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 2% 60% 36% 2%;
+  margin-bottom: 2%;
+}
+
+#score-name {
+  border: solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#score-date {
+  border: solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#score-result {
+  border: solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 600px) {
+  #best-score-title {
+    font-size: 4vw;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+  }
+
+  #score-element {
+    font-size: 3.5vw;
+    color: white;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 2% 60% 36% 2%;
+    margin-bottom: 2%;
+  }
+}
