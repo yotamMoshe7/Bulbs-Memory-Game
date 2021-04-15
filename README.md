@@ -1,20 +1,17 @@
 # Bulbs-Memory-Game
 
-## Game Rules
-The board consists of 6 “light bulbs”, each one has a unique color.
-The game goes in the following order:
 1. Welcome Page - Users can enter his name and open the game interface.
 2. After entering his name, the user can start the game by clicking the “Start” button.
 
 ## Welcome Page
 ![‏‏לכידה3](https://user-images.githubusercontent.com/57434735/114935103-6e922100-9e43-11eb-91e2-300471d6936c.PNG)
 
-## Game Page
-1. Showing the player name.
-2. Showing the current score.
-3. Showing the best score.
+The board consists of 6 “light bulbs”, each one has a unique color.
 
-Game process:
+## Game Page
+![‏‏לכידה4](https://user-images.githubusercontent.com/57434735/114935186-8b2e5900-9e43-11eb-9f6a-4e437b2c9433.PNG)
+
+## Game Rules
 1. One of the bulbs will be illuminated by the application.
 2. The user should click the bulb/s in the same order.
 3. If the user clicked the right bulb/s at the right order:
@@ -27,7 +24,12 @@ Game process:
 the player and date.
 5. The order of the scores will be from the highest to the lowest score
 
-![‏‏לכידה4](https://user-images.githubusercontent.com/57434735/114935186-8b2e5900-9e43-11eb-9f6a-4e437b2c9433.PNG)
+Game left side bar:
+1. Showing the player name.
+2. Showing the current score.
+3. Showing the best score.
+
+
 
 
 
