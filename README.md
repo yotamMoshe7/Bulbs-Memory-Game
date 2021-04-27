@@ -33,7 +33,7 @@ Game left side bar:
 3. Showing the best score.
 
 
-
+ 
 
 
  
