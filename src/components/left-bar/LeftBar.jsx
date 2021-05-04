@@ -34,7 +34,7 @@ export const LeftBar = (props) => {
 
   return (
     <div className='side-bar'>
-      <div id='player-name'>{`Welcome  ${playerName}`}</div>
+      <div id='player-name'>{`${playerName}`}</div>
       <div id='score'>
         Score
         <br />
